@@ -1,6 +1,6 @@
 <p align="center">
 <!--   <img src="https://pbs.twimg.com/media/ErQZCsRXEAMlSRu?format=png&name=small" width="60" />   -->
-  <img src="https://pbs.twimg.com/media/ErQZCsRXEAMlSRu?format=png&name=small" width="70" />  
+  <img src="https://pbs.twimg.com/media/ErQZCsRXEAMlSRu?format=png&name=small" width="80" />  
   <h2 align="center"><a href="">I'm Olayiwola Jeremiah</a></h2>
   <p align="center"> Software Engineer and Ui/Ux Designer</p>
 </p>
