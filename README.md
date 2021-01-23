@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://pbs.twimg.com/media/ErQdFAPXUAQnEV8?format=png&name=small" width="80" />  
-  <h2 align="center"><a href="">I'm Olayiwola Jeremiah</a></h2>
-  <p align="center"> Software Engineer and Ui/Ux Designer</p>
+  <h2 align="center"><a href="">I'm Jeremiah Olayiwola</a></h2>
+  <p align="center"> Software Engineer and Designer</p>
 </p>
 
 <p align="center">
@@ -12,9 +12,13 @@
 
 <br />
 
+I'm 21
+
 💫 I'm currently working with my hands to make magic happen on the web. 
 
 📫 You can reach me at Jayprecode@gmail.com.
+
+📞 08161292005
 
  - 🚀 I am passionate about building fast, intuitive and performance-driven applications.
  -  I also ❤ learning new skills and teaming with fellow developers 👨‍💻 to build amazing stuff.
