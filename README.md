@@ -12,11 +12,11 @@
 
 <br />
 
-<h3>I'm 21</h3>
+<h4>I'm 21</h4>
 
 💫 I'm currently working with my hands to make magic happen on the web. 
 
-📫 You can reach me at Jayprecode@gmail.com.
+📫 You can reach me at Jayprecode@gmail.com.<br/>
 📞 08161292005
 
  - 🚀 I am passionate about building fast, intuitive and performance-driven applications.
