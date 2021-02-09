@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pbs.twimg.com/media/ErQdFAPXUAQnEV8?format=png&name=small" width="80" />  
+  <img src="jp.avi" width="80" alt="Jay"/>  
   <h2 align="center"><a href="">I'm Jeremiah Olayiwola</a></h2>
   <p align="center"> Software Engineer and Designer</p>
 </p>
