@@ -1,5 +1,5 @@
 <p align="center">
-  ![Jayprecode](https://user-images.githubusercontent.com/60290658/107445590-0ff7b080-6b3d-11eb-9586-7fb75b37dfc9.gif | width="100px")
+  ![Jayprecode](https://user-images.githubusercontent.com/60290658/107445590-0ff7b080-6b3d-11eb-9586-7fb75b37dfc9.gif | width=100)
   <h2 align="center"><a href="">I'm Jeremiah Olayiwola</a></h2>
   <p align="center"> Software Engineer and Designer</p>
 </p>
