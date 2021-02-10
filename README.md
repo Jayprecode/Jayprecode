@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/60290658/107457287-13e1fd80-6b52-11eb-9c3a-d245aa6cb559.mov" width=90 />
+  <img src="https://user-images.githubusercontent.com/60290658/107459303-2bbb8080-6b56-11eb-9691-dabecaf41c4b.gif" width=90 />
   <h2 align="center"><a href="">I'm Jeremiah Olayiwola</a></h2>
   <p align="center"> Software Engineer and Designer</p>
 </p>
