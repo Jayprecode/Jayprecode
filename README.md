@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Jayprecode/Jayprecode/blob/main/jp.svg" width=90 />
+  <img src="https://github.com/Jayprecode/mbl/blob/master/jp.svg" width=100 />
   <h2 align="center"><a href="">I'm Jeremiah Olayiwola</a></h2>
   <p align="center"> Software Engineer and Designer</p>
 </p>
