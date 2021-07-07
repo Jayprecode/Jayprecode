@@ -1,8 +1,8 @@
 ### Hello World 👋
 <p align="center">
   <img src="https://github.com/Jayprecode/mbl/blob/master/jp.svg" width=100 />
-  <h2 align="center"><a href="">I'm Jeremiah Olayiwola</a></h2>
-  <p align="center"> Software Engineer and Designer</p>
+  <h1 align="center"><a href="">I'm Jeremiah Olayiwola</a></h1>
+  <p align="center"> Software Engineer and UI Designer</p>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 💫 I'm currently working with my hands to make magic happen on the web. 
 
 📫 You can reach me at Jayprecode@gmail.com.<br/>
-📞 08161292005
+📞 +2348161292005
 
  - 🚀 I am passionate about building fast, intuitive and performance-driven applications.
  -  I also ❤ learning new skills and teaming with fellow developers 👨‍💻 to build amazing stuff.
