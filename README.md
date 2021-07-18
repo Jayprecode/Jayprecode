@@ -16,7 +16,6 @@
 💫 I'm currently working with my hands to make magic happen on the web. 
 
 📫 You can reach me at Jayprecode@gmail.com.<br/>
-📞 +2348161292005
 
  - 🚀 I am passionate about building fast, intuitive and performance-driven applications.
  -  I also ❤ learning new skills and teaming with fellow developers 👨‍💻 to build amazing stuff.
