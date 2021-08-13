@@ -1,7 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
 ### Hello World 👋
 <p align="center">
   <img src="https://github.com/Jayprecode/mbl/blob/master/jp.svg" width=100 />
-  <h1 align="center"><a href="">I'm Jeremiah Olayiwola</a></h1>
+  <h1 style="font-family:"Audiowide";" align="center"><a href="">I'm Jeremiah Olayiwola</a></h1>
   <p align="center"> Software Engineer and UI Designer</p>
 </p>
 
