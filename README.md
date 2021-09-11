@@ -16,7 +16,7 @@
 ├─▣ Software Engineer and UI Designer
 ├─▣ Content Creator
 ├─▣ <a href="https://jayprecode.dev">Jaypecode's Hub(🚧 Work in Progress)</a>
-├─▣ I am mostly available at <a href="https://discord.gg/MtKK7U4">The White Circle</a>
+├─▣ Always Cooking %#E%^*^(**^^%&^$#*
 │
 └───────────────────────────────▰▰▰
 
