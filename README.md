@@ -50,30 +50,6 @@
 │─◈
 └───────────────────────────────▰▰▰
 
-┌──┤ LANGUAGES & TOOLS ├───────▰▰▰
-│
-├─◈ <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-├─◈ <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-├─◈ <img align="left" alt="JavaScript" width="26px" 
-|    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-├─◈ <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-├─◈ <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
-/>
-
-│─◈ <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="26px"/>
-
-│─◈ <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="26px"/>
-
-│─◈ <img align="left" src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" alt="bootstrap" width="26px"/>
-
-│─◈ <img align="left" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="26px"/>
-
-└───────────────────────────────▰▰▰
-
 ┌──┤ STATS ├─────────▰▰▰
      <details>
 ├─◈ <summary>:zap: GitHub Stats</summary>
@@ -86,7 +62,7 @@
 |
 └───────────────────────────────▰▰▰
 
-<h1 align='center'><i>Stay awesome!</i></h1>
+<h1 align='center'><i>Stay awesome!✌</i></h1>
 
 </pre>
 
