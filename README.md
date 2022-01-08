@@ -23,7 +23,7 @@
  - ⚡ Fun fact: I skate <img src="https://www.emoji.com/wp-content/uploads/filebase/thumbnails/icons/emoji-icon-flat-06-02-activities-sport-inline-skate-72dpi-forPersonalUseOnly.png" width="15"/> .shhh dont tell anyone 😄
  
 <br />
-
+<!-- 
 ### Languages & Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -40,7 +40,7 @@
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="26px"/>
 
 <br />
-<br />
+<br /> -->
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
