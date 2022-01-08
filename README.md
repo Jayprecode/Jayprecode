@@ -13,8 +13,6 @@
 
 <br />
 
-<h4>I'm 21</h4>
-
 💫 I'm currently working with my hands to make magic happen on the web. 
 
 📫 You can reach me at Jayprecode@gmail.com.<br/>
