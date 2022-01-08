@@ -45,7 +45,7 @@
 <br />
 ----
 
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jayprecode&show_icons=true&hide_border=true" />
@@ -57,7 +57,7 @@
 
 <img align="left" background-color="#0d1017" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayprecode"/>
 
-</details>
+</details> -->
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 
