@@ -58,7 +58,7 @@
 <h1 align='center'><i>Stay awesome!</i></h1>
 <br>
 
-![Snake animation](https://github.com/Jayprecode/Jayprecode/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Jayprecode/Jayprecode/output/github-contribution-grid-snake.svg)
 
 
 <!--
