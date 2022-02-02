@@ -13,7 +13,7 @@ jobs:
     steps:
       # Snake Animation
       - uses: Platane/snk@v0.0.18
-        id: snake-gif
+        id: github contribution grid snake animation
         with:
           github_user_name: Jayprecode
           svg_out_path: dist/github-contribution-grid-snake.svg
