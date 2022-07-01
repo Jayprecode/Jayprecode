@@ -32,6 +32,18 @@ My favorite ones are CSS-in-JS(styled-components), React, Node.js, Next.js and V
 
 <br>
 
+## daily.dev Bookmarks 
+ 
+<!-- BOOKMARKS-LIST:START -->
+- [The Companion Widget](https://app.daily.dev/posts/wKf1R6kin?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
+- [Solidity Hello world](https://app.daily.dev/posts/9SD2pfrqB?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
+- [The Complete Guide to Full Stack Web3 Development](https://app.daily.dev/posts/WcaeztDPx?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
+- [55 Web3 Projects Worth Following - Best Web 3.0 Examples](https://app.daily.dev/posts/jz4B3m4CV?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
+- [Entering Web3](https://app.daily.dev/posts/b1QA4swN6?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
+<!-- BOOKMARKS-LIST:END -->
+
+<br />
+
 ## 🖥⌨ Most used Languages 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayprecode&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
