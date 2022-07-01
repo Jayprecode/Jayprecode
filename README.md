@@ -1,8 +1,12 @@
 ### Hello World 👋
 <p align="center">
   <img src="https://github.com/Jayprecode/mbl/blob/master/jp.svg" width=100 />
-  <h2 align="center"><a href="">I'm Jeremiah Olayiwola</a></h2>
-  <p align="center"> Software Engineer and Designer</p>
+  <h2 align="center"><a href="">I'm Jeremiah</a>, 
+  <br />
+  In hebrew it's called <a href="">Yirmeyahu</a> & 
+  <br />
+  In greek it's called <a href="">Ιερεμίας</a> or rather <a href="">Ieremías</a></h2>
+  <p align="center">I'm a Frontend Developer & Javascript Engineer</p>
 </p>
 
 <p align="center">
