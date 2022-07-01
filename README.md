@@ -22,7 +22,7 @@
 
 ## 🥞 Tech Stack
  
-I work with many different technologies. 
+I work with different technologies. 
 My favorite ones are CSS-in-JS(styled-components), React, Node.js, Next.js and Vercel.
 
 <img src="https://styled-components.com/nav-logo.png" title="styled component" alt="styled component's Logo" />&emsp;
