@@ -1,5 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=jayprecode&style=flat-square&color=6cd63e">
-
 ## Hi 👋, <a href="">I'm Jeremiah</a><br /> In Hebrew it's called <a href="">ˌdʒɛrɪˈmaɪ.ə</a> or rather <a href="">Yirmeyahu</a>, <br />In Greek it's called <a href="">Ιερεμίας</a> or rather <a href="">Ieremías</a>. whichever way, it's fine by me 😄
   <p>I'm a Frontend Developer & Javascript Engineer</p>
 
@@ -53,3 +51,5 @@ My favorite ones are CSS-in-JS(styled-components), React, Node.js, Next.js and V
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 <br>
+
+<img src="https://komarev.com/ghpvc/?username=jayprecode&style=flat-square&color=6cd63e">
