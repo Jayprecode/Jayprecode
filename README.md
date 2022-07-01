@@ -22,7 +22,7 @@
 
 ## 🥞 Tech Stack
  
-I work with many different technologies and languages. 
+I work with many different technologies. 
 My favorite ones are CSS-in-JS(styled-components), React, Node.js, Next.js and Vercel.
 
 <img src="https://styled-components.com/nav-logo.png" title="styled component" alt="styled component's Logo" />&emsp;
@@ -35,7 +35,6 @@ My favorite ones are CSS-in-JS(styled-components), React, Node.js, Next.js and V
 ## daily.dev Bookmarks 
  
 <!-- BOOKMARKS-LIST:START -->
-- [The Companion Widget](https://app.daily.dev/posts/wKf1R6kin?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
 - [Solidity Hello world](https://app.daily.dev/posts/9SD2pfrqB?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
 - [The Complete Guide to Full Stack Web3 Development](https://app.daily.dev/posts/WcaeztDPx?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
 - [55 Web3 Projects Worth Following - Best Web 3.0 Examples](https://app.daily.dev/posts/jz4B3m4CV?utm_source=rss&utm_medium=bookmarks&utm_campaign=QgTYreBqt)
