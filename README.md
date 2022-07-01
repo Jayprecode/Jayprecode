@@ -1,4 +1,4 @@
-## Hi 👋, <a href="">I'm Jeremiah</a><br /> In Hebrew it's called <a href="">Yirmeyahu</a>, <br />In Greek it's called <a href="">Ιερεμίας</a> or rather <a href="">Ieremías</a>. whichever way, it's fine by me 😄
+## Hi 👋, <a href="">I'm Jeremiah</a><br /> In Hebrew it's called <a href="">ˌdʒɛrɪˈmaɪ.ə</a> or rather <a href="">Yirmeyahu</a>, <br />In Greek it's called <a href="">Ιερεμίας</a> or rather <a href="">Ieremías</a>. whichever way, it's fine by me 😄
   <p>I'm a Frontend Developer & Javascript Engineer</p>
 
 <p>
