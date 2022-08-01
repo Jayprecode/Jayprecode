@@ -2,7 +2,7 @@
   <p>I'm a Frontend Developer & Javascript Engineer</p>
 
 <p>
-  <a href="">Portfolio</a> | 
+  <a href="https://jayprecode.dev">Portfolio</a> | 
   <a href="https://twitter.com/Jayprecode">Twitter</a> |
   <a href="https://www.linkedin.com/in/jayprecode">LinkedIn</a>
 </p>
