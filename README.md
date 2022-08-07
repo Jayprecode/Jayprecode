@@ -49,6 +49,8 @@ My favorite ones are CSS-in-JS(styled-components), React, Node.js, Next.js and V
 
 <a href="https://app.daily.dev/Jayprecode"><img src="https://github.com/Jayprecode/Jayprecode/blob/main/devcard.svg" width="200" alt="Jeremiah P. Olayiwola's Dev Card"/></a>
 
+My Bussiness Card in your terminal 😉 --- <a href="">npx jayprecode</a> --- Try it out!
+
 <h1 align='center'><i>Stay awesome!</i></h1>
 <br>
 
