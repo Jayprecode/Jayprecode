@@ -1,3 +1,5 @@
+<table><tr><td valign="top" width="75%">
+  
 ## Hi 👋, <a href="">I'm Jeremiah</a><br /> In Hebrew it's called <a href="">ˌdʒɛrɪˈmaɪ.ə</a> or rather <a href="">Yirmeyahu</a>, <br />In Greek it's called <a href="">Ιερεμίας</a> or rather <a href="">Ieremías</a>. whichever way, it's fine by me 😄
   <p>I'm a Frontend Developer & Javascript Engineer</p>
 
@@ -17,20 +19,24 @@
  -  I also ❤ learning new skills and teaming with fellow developers 👨‍💻 to build amazing stuff.
  - 🌱 I’m currently learning about anything and everything around JavaScript.
  - ⚡ Fun fact: I skate <img src="https://www.emoji.com/wp-content/uploads/filebase/thumbnails/icons/emoji-icon-flat-06-02-activities-sport-inline-skate-72dpi-forPersonalUseOnly.png" width="15"/> .shhh dont tell anyone 😄
- 
+  
+</td><td valign="top" width="25%">
+
+##  Tech Stack 🥞
+
+- React
+- Next.js
+- Vercel
+- Firebase
+- Node.js
+- CSS-in-JS(styled-components)
+- Next.js
+- CSS-in-JS(styled-components)
+- Flutter (new)
+- React Native (new)
+- Three js (new)
+ </tr></tr></table> 
 <br />
-
-## 🥞 Tech Stack
- 
-I work with different technologies. 
-My favorite ones are CSS-in-JS(styled-components), React, Node.js, Next.js and Vercel.
-
-<img src="https://styled-components.com/nav-logo.png" title="styled component" alt="styled component's Logo" />&emsp;
- <img alt="React" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js" alt="Node.js Logo" width="100"/>&emsp;
-<img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/lr4rm1p2pcezmxqs5dqk.png" title="Next.js Logo" alt="Next.js Grafana Logo" width="150"/>&emsp;
-
-<br>
 
 ## daily.dev Bookmarks 
  
