@@ -4,7 +4,7 @@
   <p>I'm a Frontend Developer & Javascript Engineer</p>
 
 <p>
-  <a href="https://jayprecode.dev">Portfolio</a> | 
+  <a href="https://jayprecode.dev">Portfolio</a> |
   <a href="https://twitter.com/Jayprecode">Twitter</a> |
   <a href="https://www.linkedin.com/in/jayprecode">LinkedIn</a>
 </p>
@@ -16,9 +16,8 @@
 📫 You can reach me at Jayprecode@gmail.com.<br/>
 
  - 🚀 I am passionate about building fast, intuitive and performance-driven applications.
- -  I also ❤ learning new skills and teaming with fellow developers 👨‍💻 to build amazing stuff.
+ -  I also ❤ learning new skills and teaming with other Engineers 👨‍💻 to build amazing stuff.
  - 🌱 I’m currently learning about anything and everything around JavaScript.
- - ⚡ Fun fact: I skate <img src="https://www.emoji.com/wp-content/uploads/filebase/thumbnails/icons/emoji-icon-flat-06-02-activities-sport-inline-skate-72dpi-forPersonalUseOnly.png" width="15"/> .shhh dont tell anyone 😄
   
 </td><td valign="top" width="25%">
 
