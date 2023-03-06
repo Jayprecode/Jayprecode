@@ -16,9 +16,9 @@
 │
 ├─▣ Hi 👋, <a href="">I'm Jeremiah</a> 
 │
-├─▣In Hebrew it's called <a href="">ˌdʒɛrɪˈmaɪ.ə</a> or rather <a href="">Yirmeyahu</a>, 
+├─▣ In Hebrew it's called <a href="">ˌdʒɛrɪˈmaɪ.ə</a> or rather <a href="">Yirmeyahu</a>, 
 │
-├─▣In Greek it's called <a href="">Ιερεμίας</a> or rather <a href="">Ieremías</a>. whichever way, it's fine by me 😄
+├─▣ In Greek it's called <a href="">Ιερεμίας</a> or rather <a href="">Ieremías</a>. whichever way, it's fine by me 😄
 │
 ├─▣ I'm a Frontend Developer & Javascript Engineer
 │
