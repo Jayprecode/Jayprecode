@@ -46,7 +46,7 @@
 ├─▣ Typescript
 ├─▣ Next.js
 ├─▣ CSS-in-JS(styled-components)
-├─▣ Flutter (new)
+├─▣ Flutter (in progress)
 ├─▣ React Native (new)
 ├─▣ Three js (new)
 |
