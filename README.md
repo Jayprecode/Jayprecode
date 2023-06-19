@@ -68,7 +68,18 @@
 
 ┌──┤ 🖥⌨ Most used Languages... ├─────────▰▰▰
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayprecode&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Jayprecode&theme=tokyonight&show_icons=true"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayprecode&layout=compact&show_icons=true&theme=tokyonight"/></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+	<td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jayprecode&theme=tokyonight"/></td>
+  </tr>
+</table>
 
 └───────────────────────────────▰▰▰
 
