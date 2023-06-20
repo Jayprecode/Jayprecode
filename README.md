@@ -66,17 +66,12 @@
 
 </pre>
 
-┌──┤ 🖥⌨ Most used Languages... ├─────────▰▰▰
+┌──┤ 📊 Arcane GitHub Stats... ├─────────▰▰▰
 
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Jayprecode&theme=tokyonight&show_icons=true"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayprecode&layout=compact&show_icons=true&theme=tokyonight"/></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
 	<td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jayprecode&theme=tokyonight"/></td>
   </tr>
 </table>
